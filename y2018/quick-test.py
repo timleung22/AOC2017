@@ -1,0 +1,1 @@
+print ('#' in 'this line # returns true')
